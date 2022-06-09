@@ -1,3 +1,3 @@
 Name: **Motochas - Сайт для аренды спецтехники**  
 Location: **Ташкент, Узбекистан**  
-!(/main.jpg "Project view")   
+![The San Juan Mountains are beautiful!](/main.jpg "San Juan Mountains")   
